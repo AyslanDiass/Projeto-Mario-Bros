@@ -1,4 +1,4 @@
-Este projeto esta sendo realizado através da formação FullStack DevClub com mentoria de Rodolfo Mori e apartir dele estou iniciando minha carreira na programação , no curso contamos com o ensinamentos de varias tecnologias utilizadas no mercado de trabalho , sem mas delongas vamos explicar um pouco mais sobre o projeto
+Este projeto esta sendo realizado através da formação FullStack DevClub com mentoria de Rodolfo Mori e apartir dele estou iniciando minha introdução ao Java Script  , no curso contamos com o ensinamentos de varias tecnologias utilizadas no mercado de trabalho , sem mas delongas vamos explicar um pouco mais sobre o projeto
 
 Descrição do projeto : Esse projeto foi criado para ser usado no formato web e mobile Como ainda é um projeto simples foram usados três tecnologias para ser desenvolvido, entre elas :
 
