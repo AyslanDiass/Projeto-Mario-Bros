@@ -9,7 +9,7 @@ Imagens usadas no projeto :
 Esta são as capturas das telas criado no projeto:
 
 Imagem da página Inicial 
-<img src="https://github.com/AyslanDiass/Projeto-Mario-Bros/blob/main/Assets/Formulario%20Img.png?raw=true"alt=""Imagen da pagina principal do site"/>
+<img src="https://github.com/AyslanDiass/Projeto-Mario-Bros/blob/main/Assets/Formulario%20Img.png?raw=true" alt=""Imagen da pagina principal do site"/>
 
 Imagem do Formulario:
 
