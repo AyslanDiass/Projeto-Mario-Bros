@@ -3,8 +3,11 @@ Este projeto esta sendo realizado através da formação FullStack DevClub com m
 Descrição do projeto : Esse projeto foi criado para ser usado no formato web e mobile Como ainda é um projeto simples foram usados três tecnologias para ser desenvolvido, entre elas :
 
 -HTML --> Usado para criar toda a estrutura das telas
+<br>
 -CSS --> Usado para estilizar e organizar toda a estrutura, asssim dando cor e vida ao projeto
+<br>
 -Java Script --> Usado para trazer funções e interações entre os elementos de dentro do prgrama 
+
 Imagens usadas no projeto :
 Esta são as capturas das telas criado no projeto:
 
